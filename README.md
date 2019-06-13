@@ -44,8 +44,8 @@
 
 ## 技术
 
-1. [Learn You a Haskell for Great Good!](http://fleurer.github.io/lyah/)，by Miran Lipovača，2019年5月
-1. JavaScript高级程序设计（第3版）, by [美] 尼古拉斯·泽卡斯, 2018年12月
+1. JavaEE开发的颠覆者 Spring Boot, by 汪云飞, 2018年6月
+1. Effective Java, by [美] Joshua Bloch , 2018年6月
 
 ## 心理学
 
