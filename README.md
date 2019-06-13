@@ -8,8 +8,8 @@
 - [传记](#传记)
 - [历史](#历史)
 - [科学](#科学)
-- [心理学](#心理学)
 - [技术](#技术)
+- [心理学](#心理学)
 - [杂类](#杂类)
 
 ## 文学
@@ -23,7 +23,7 @@
 1. 围城，by 钱钟书，2011年12月
 1. :+1: 白鹿原，by陈忠实，2011年11月
 1. :+1::+1: [青春](http://www.ruanyifeng.com/blog/2016/02/youth-by-coetzee.html)，by 库切，2016年2月
-1. [心术](http://www.ruanyifeng.com/blog/2010/09/where_i_am_going.html)，by 六六，2010年8月
+
 
 ## 传记
 
@@ -32,20 +32,24 @@
 
 ## 历史
 
-1. 人类简史(A brief history of humankind)，by [以色列] 尤瓦尔·赫拉利  2019年6月
+1. :+1::+1:人类简史(A brief history of humankind)，by [以色列] 尤瓦尔·赫拉利  2019年6月
+1. :+1:论工业社会及其未来(Industrial society and it's future)，by [美] 希尔多·卡辛斯基  2019年5月
 
 
 ## 科学
 
 1. :x: 起源：万物大历史，[美] 大卫·克里斯蒂安，2019年5月
 
-## 心理学
 
 ## 技术
 
 1. [Learn You a Haskell for Great Good!](http://fleurer.github.io/lyah/)，by Miran Lipovača，2019年5月
 1. JavaScript高级程序设计（第3版）, by [美] 尼古拉斯·泽卡斯, 2018年12月
 
+## 心理学
+
+1.  梦的解析（The Interpretation of Dreams），【奥】西格蒙特·弗洛伊德，2019年5月
+1.  :+1:乌合之众（The Crowd： A Study of the Popular Mind），古斯塔夫·勒庞，2019年4月
 
 ## 杂类
 
