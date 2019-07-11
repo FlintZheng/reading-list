@@ -19,7 +19,7 @@
 1. :+1: 傲慢与偏见(Pride and Prejudice)，by [英]简·奥斯汀，2019年1月
 1. :+1: 苏菲的世界(Sophies World) ，by 乔斯坦·贾德，2018年11月
 1.  阿Q正传 ，by 鲁迅，2018年10月
-1.  :+1:三体(The Three Problem)，刘慈欣，2018年9月
+1.  :+1:三体(The Three Body Problem)，刘慈欣，2018年9月
 1. :+1: 道德经，by 老子，2018年8月
 1.  茶花女(The Lady of the Camellias) ，by [法]亚历山大·小仲马，2017年5月
 1. :+1: 平凡的世界，by  路遥，2014年8月
