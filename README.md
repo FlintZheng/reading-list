@@ -52,6 +52,7 @@
 
 ## 心理学
 
+1.  性学三论与爱情心理学【奥】西格蒙特·弗洛伊德，2019年7月
 1.  自我与本我(Id, Ego and Superego)，【奥】西格蒙特·弗洛伊德，2019年6月
 1.  梦的解析（The Interpretation of Dreams），【奥】西格蒙特·弗洛伊德，2019年5月
 1.  :+1:乌合之众（The Crowd： A Study of the Popular Mind），古斯塔夫·勒庞，2019年4月
