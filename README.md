@@ -13,6 +13,7 @@
 - [杂类](#杂类)
 
 ## 文学
+1.   :+1老人与海(The Ferryman)，by 海明威，2019年10月
 1.  摆渡人【1-3】(The Ferryman)，by 克莱儿·麦克福尔，2019年6月
 1. :+1: 灿烂千阳(A Thousand Splendid Suns)，by 卡勒德·胡赛尼，2019年5月
 1. :+1: 三国演义，by 罗贯中，2019年2月
@@ -35,7 +36,7 @@
 1. 巴菲特传，by  Roger Lowenstein  ，2019年9月
 
 ## 历史
-
+1. :+1:未来简史(A brief history of tomorrow)，by [以色列] 尤瓦尔·赫拉利  2019年9月
 1. :+1::+1:人类简史(A brief history of humankind)，by [以色列] 尤瓦尔·赫拉利  2019年6月
 1. :+1:论工业社会及其未来(Industrial society and it's future)，by [美] 希尔多·卡辛斯基  2019年5月
 
