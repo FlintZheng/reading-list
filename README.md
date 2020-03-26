@@ -50,7 +50,6 @@
 
 ## 科学
 1. :+1: 必然(The inevitable)，[美] 凯文·凯利2019年12月
-1. :x: 起源：万物大历史，[美] 大卫·克里斯蒂安，2019年5月
 
 ## 管理
 1. :+1: 商业的本质（The Real-Life MBA），[美] 杰克·韦尔奇 2019年7月
@@ -67,6 +66,7 @@
 
 ## 心理学
 
+1. :+1:How to Win Friends and Influence People ，by Dale Carnegie, Mar 2020
 1.  性学三论与爱情心理学【奥】西格蒙特·弗洛伊德，2019年7月
 1.  自我与本我(Id, Ego and Superego)，【奥】西格蒙特·弗洛伊德，2019年6月
 1.  梦的解析（The Interpretation of Dreams），【奥】西格蒙特·弗洛伊德，2019年5月
