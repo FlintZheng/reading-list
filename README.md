@@ -36,10 +36,10 @@
  
 ## 传记
 
-1. 富兰克林自传，2020年1月
+1.  :+1: :+1:富兰克林自传，2020年1月
 1. 霍英东自述，2019年11月
 1. 特斯拉自传(My inventions)，by  尼古拉·特斯拉，2018年6月
-1. 发现的乐趣(The Pleasure of finding things out)，by  理查德·费曼，2017年7月
+1.  :+1:发现的乐趣(The Pleasure of finding things out)，by  理查德·费曼，2017年7月
 1. 巴菲特传，by  Roger Lowenstein  ，2019年9月
 
 ## 历史
